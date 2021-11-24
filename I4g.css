@@ -1,0 +1,67 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(235, 247, 134);
+    background: linear-gradient();
+    width:
+}
+h2{
+    color: rgb(107, 41, 44);
+    font: italic;
+    font-size: 30px;
+    text-align: center;
+    margin: 50px auto;
+}
+h3{
+    color:rgb(107, 41, 44);
+    font: italic;
+    font-size: 25px;
+    text-align: center;
+    margin: 50px auto;
+}
+form{
+    background: rgba(231, 155, 119, 0.5);
+     border: 5px solid rgb(4, 8, 4);
+     padding: 30px;
+     margin: 50px auto;
+     max-width: 350px;
+     border-radius: 20px;
+     box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+     height: 600px;
+
+}
+input{
+    margin: 10px auto;
+    width: 100%;
+    padding: 5px;
+    padding-right: 5px;
+    text-align: left;
+    border-radius: 10px;
+    border-color: black;
+}
+.putt{
+    width: 30px;
+    text-align: right;
+}
+.name{
+     width: 150px;
+     border-style: solid;
+}
+#date{
+    width: 70%;
+}
+h6{
+    color:black;
+    font: italic;
+    font-size: 15px;
+    text-align: center;
+    height: 1px;
+}
+h4{
+    color:black;
+    font: italic;
+    font-size: 20px;
+    text-align: center;
+    height: 1px;
+}

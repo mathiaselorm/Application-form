@@ -1,0 +1,63 @@
+form{
+    background:rgb(110, 24, 39) ;
+    margin: 100px;
+    border: black solid;
+    padding: 20px;
+    width: 25%;
+    height: 250px;
+text-align: center;
+line-height: 40px;
+border-radius: 30px;
+box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+
+}
+select{
+    line-height: 40px;
+    margin: 10px auto;
+    border-radius: 20px;
+    color: rgb(54, 4, 4);
+    height: 30px;
+    width: 50%;
+    border: black solid;
+    border-radius: 80px;
+}
+button{
+    line-height: 20px;
+    margin: 10px auto;
+    border-radius: 20px;
+    color: rgb(54, 4, 4);
+    height: 30px;
+    width: 50%;
+    border: black solid;
+    border-radius
+}
+
+.log{background: rgb(73, 121, 148);
+    padding: 10px;
+    margin: 50px auto;
+    border: 5px solid;
+    height: 250px;  
+    width: 250px; 
+text-align: center;
+line-height: 10px;
+border-radius: 20px;
+box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+}
+.in{
+    line-height: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+    color: rgb(41, 32, 32);
+    height: 25px;
+    width: 5o%;
+    border-color: black;
+h3{
+    color:rgb(121, 9, 14);
+    font: italic;
+    font-size: 25px;
+    text-align: center;
+    margin: 30px auto;
+}
+.lin{
+    text-emphasis-color: red;
+}
